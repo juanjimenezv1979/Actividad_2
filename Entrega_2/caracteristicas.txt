@@ -1,0 +1,1 @@
+FlexBox =flexDirection puede ser horizontal row y column vertical
